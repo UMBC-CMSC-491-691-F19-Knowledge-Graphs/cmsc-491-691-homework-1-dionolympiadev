@@ -1,0 +1,13 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:Person rdf:ID="me">
+<foaf:name>Dion Olympia</foaf:name>
+<foaf:title>Mr</foaf:title>
+<foaf:givenname>Dion</foaf:givenname>
+<foaf:family_name>Olympia</foaf:family_name>
+<foaf:mbox_sha1sum>d467777df18a1d1c274c07ead016beba20d48d27</foaf:mbox_sha1sum>
+<foaf:schoolHomepage rdf:resource="www.umbc.edu"/></foaf:Person>
+</rdf:RDF>
